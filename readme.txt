@@ -1,3 +1,2 @@
-readme.txt
-2022.11.08
-modified
+Repo for Developer Course 2022.10 - 2022.12
+
